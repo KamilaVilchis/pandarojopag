@@ -1,4 +1,4 @@
-# Página dobre Pandas Rojos con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
+# Página sobre Pandas Rojos con HTML5 y CSS3 en el bootcamp de Tecnolochicas PRO
 
 
 ## Índice 📖
