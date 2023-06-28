@@ -1,0 +1,30 @@
+img {
+    height: 246px;
+    margin: auto;
+    padding:  20px;
+    border-style: solid;
+    border-color: #7a2630;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h3 {
+    font-family: 'Concert One', cursive;
+}
+
+body {
+    background-color: #ffc4a5;
+    font-family: 'Kalam', cursive;
+}
+
+a {
+    color: #7a2630;
+    font-family: 'Courgette', cursive;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
